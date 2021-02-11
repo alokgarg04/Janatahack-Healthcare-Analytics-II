@@ -1,0 +1,15 @@
+1. https://machinelearningmastery.com/multi-class-imbalanced-classification/
+2. https://www.kaggle.com/stuarthallows/using-xgboost-with-scikit-learn
+3. https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+4. parameters = {"penalty": ("l1", "l2"),
+    "C": (0.001, 0.01, 0.1, 1, 10, 100),
+    "solver": ("newton-cg", "lbfgs", "liblinear"),
+    "class_weight":[{0:4}],
+} 
+parameter for sklearn
+
+
+4.https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/#:~:text=Keras%20can%20separate%20a%20portion,size%20of%20your%20training%20dataset.
+
+
+5. https://www.machinecurve.com/index.php/2020/02/21/how-to-predict-new-samples-with-your-keras-model/
